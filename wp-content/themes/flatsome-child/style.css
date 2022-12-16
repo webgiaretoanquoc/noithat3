@@ -1,0 +1,267 @@
+/*
+Theme Name: Flatsome Child
+Description: NamKiem developed for Flatsome Theme
+Author: UX Themes
+Template: flatsome
+Version: 3.11.3
+*/
+
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+
+
+.container-width, .full-width .ubermenu-nav, .container, .row {max-width: 98%; margin: 0 auto}
+.header-block{width: 301px;
+	height: 135px;
+	right: -14px;
+	position: absolute;
+	;
+}
+.header-block .cot1{    height: 135px;
+	background: #888888;}
+.header-block .cot2{    height: 135px;
+	background: #2d2d2d;}
+.header-block .cot3{height: 135px;
+	background: black;}
+.header-block .cot1 .cot1-1{height: 67px; background: gray;color: white; padding: 0; width: 100%;}
+.header-block .cot1 .row{margin-left: 0; margin-right: 0; height: 135px}
+.header-block .cot1 .row .button.icon.circle{border: 1px solid white;
+	color: white;}
+.header-block .cot2 .icon-box-img img:hover, .header-block .cot3 .icon-box-img img:hover{opacity: 0.8;}
+.portfolio-single-page{    background-image: url(../../uploads/2018/03/bg-portfolio.jpg);
+	background-attachment: fixed;}
+.portfolio-top .page-wrapper{    width: 70%;
+	padding: 20px;
+	background: white;
+}
+.normal-title{ background-color:rgba(0, 0, 0, 0);
+	border-top: 0px solid #ececec; 
+	border-bottom: 0px solid #ececec;}
+.normal-title .page-title-inner{    padding-top: 30px;
+	padding-bottom: 30px;width: 70%;
+	padding-left: 0;
+	padding-right: 0;}
+.portfolio-single-page .page-title-inner .pt-0 {color: white}
+.portfolio-single-page .breadcrumbs{font-size: 12px}
+.portfolio-single-page .breadcrumbs a{color: white}
+.portfolio-single-page .breadcrumbs .divider{color: white; font-weight: 500}
+.portfolio-single-page .portfolio-top{padding-bottom:30px}
+.portfolio-summary{    width: 70%; padding-bottom: 30px;
+	margin: 0 auto;}
+.portfolio-summary .row{margin: 0 auto; max-width: 100%}
+.portfolio-summary .row .col{padding-left:0; padding-right: 0; color:white}
+.portfolio-meta{    padding: 10px;
+	width: 350px;
+	position: absolute;
+	z-index: 10;
+	background: white;
+	top: -50px;
+	right: 45px;
+	border-radius: 0px; font-size: 13px; color: black;}
+.portfolio-meta ul{margin-left: 20px; margin-bottom: 0}
+.portfolio-inner table tr th{text-transform:none; letter-spacing: 0; font-weight: 600; color: black}
+.portfolio-inner table{    padding: 10px;
+	background: whitesmoke;}
+.portfolio-lien-quan h4{margin-bottom: 20px; text-transform: none; color: black}
+#portfolio-content{padding-left:0; padding-right: 0}
+.portfolio-box .box-text{padding-left: 5px; padding-right: 5px}
+.portfolio-box .box-text .box-text-inner h6{text-transform: none; font-size: 15px; color: white; font-weight: normal; box-shadow: 0px 0px 0px black}
+.portfolio-box .box-image:hover{background: rgba(0,0,0,0.5)}
+.portfolio-related .col{padding-left: 6px; padding-right: 6px; padding-bottom: 6px}
+.portfolio-box .image-cover img{    object-fit: initial;}
+.portfolio-section .portfolio-element-wrapper .row{margin-left:0; margin-right: 0}
+.portfolio-section .portfolio-element-wrapper .row h6{color: black;
+	letter-spacing: 0;
+	font-weight: 600;
+	text-align: left;
+	font-size: 18px;
+	padding-bottom: 5px;}
+
+.line{height: 1px; background: #6f6f6f}
+.show-on-hover{    position: absolute;
+	z-index: 99;
+	top: 0;
+	left: 0;
+	width: 100%;
+	padding: 10px;}
+.portfolio-box:hover .show-on-hover .danh-muc{margin-top: 10px}
+.portfolio-box:hover .show-on-hover .ten-portfolio{margin-top: 75px}
+.show-on-hover .danh-muc{display: inline-block; color: #c5c5c5; margin-top: 0px;
+	transition: margin-top 0.5s ease-in-out;
+	-moz-transition: margin-top 0.5s ease-in-out;
+	-webkit-transition: margin-top 0.5s ease-in-out;
+	-o-transition: height 0.5s ease-in-out; }
+.show-on-hover .portfolio-box-category{color: white; font-size:14px}
+.show-on-hover .danh-muc p{    color: white;
+	margin-bottom: 0;}
+.show-on-hover .danh-muc .portfolio-box-category span{font-size: 15px;
+	color: white;
+	font-weight: bold;}
+.show-on-hover .ten-portfolio{margin-top: 120px;
+	margin-bottom: 10px; transition: margin-top 0.5s ease-in-out;
+	-moz-transition: margin-top 0.5s ease-in-out;
+	-webkit-transition: margin-top 0.5s ease-in-out;
+	-o-transition: height 0.5s ease-in-out;}
+.show-on-hover .ten-portfolio span{font-size: 18px;
+	color: white;
+	padding-bottom: 15px}
+.show-on-hover .readmore{color: white; text-align: right; padding-top: 6px; text-transform: uppercase;font-size: 14px}
+.portfolio-section .portfolio-box .box-text{text-align: left}
+.portfolio-box .cat-top{margin-bottom: 8px}
+.portfolio-box .cat-top span{color: black; font-weight: bold; font-size: 15px; text-transform: uppercase}
+.portfolio-section .portfolio-box{padding-top: 10px; border-top: 1px solid #cecece}
+.portfolio-related .show-on-hover, .portfolio-related .tom-tat, .portfolio-related .cat-top{display:none}
+.portfolio-section .row .col{padding-bottom:0}
+.product-category .box-category .box-text{padding-bottom: 5px}
+.product-category .box-category .count {font-size: 13px; padding-top: 5px; color: gray; text-transform: none}
+.dich-vu-san-pham .row .col{padding-bottom: 0}
+.dich-vu-san-pham h3{margin-bottom: 0px}
+.dich-vu-san-pham .row .cot2{margin:0 auto}
+.dich-vu-san-pham .row .cot2 .row{margin-left: 0; margin-right: 0}
+.box-blog-post .is-divider{display: none}
+.tin-tuc .cot1 .post-item .box-text .post-title:hover{color: #c3c3c3; text-decoration: none}
+.tin-tuc .post-item .box-text .post-title{color: black}
+.tin-tuc .post-item .box-text .post-title:hover{text-decoration: underline}
+.tin-tuc .post-item {padding-bottom: 0}
+.tin-tuc .cot1 .post-item .box-text{padding-bottom: 0}
+.tin-tuc .cot3 marquee img{ max-height: 120px; width: 100%; padding-bottom: 15px}
+.tin-tuc .cot3{background: #f3ebeb; padding-top: 10px; padding-bottom:0}
+.tin-tuc .cot3 p{margin-bottom:0}
+.tin-tuc .row .row1-cot1{margin: 0 auto;}
+.tin-tuc .portfolio-box .cat-top, .tin-tuc .portfolio-box .box-text{display: none}
+.tin-tuc .row .col .row .more, .tin-tuc .row .cot10 {padding-bottom:0}
+.tagcloud a{font-size: 16px !important;padding: 5px 9px;    background: #e8e5e5; margin:5px;    border-radius: 3px;    border: 0px solid currentColor; color: black}
+.the-san-pham .widget-title, .widget .is-divider {display:none}
+.footer-block .row .col{padding-bottom:0}
+.footer-block a{color: black}
+.footer-block a:hover{color: gray; text-decoration: underline}
+ul li.bullet-arrow:before{color:black}
+.back-to-top{border-radius: 0 !important;
+	background: #f2f2f2;
+	border: 1px solid grey !important;
+}
+.blog-archive .row{background: white;
+	max-width: 98%; margin: 0 auto}
+.blog-archive .row .large-9, .blog-archive .row .post-sidebar{    padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 25px;}
+.blog-archive .row .large-9 .row{margin: 0 auto; max-width:100%}
+span.widget-title{    font-size: 1em;
+	font-weight: 600;
+	letter-spacing: 0;
+	color: black;}
+.blog-wrapper, .blog-single{    background-image: url(../../uploads/2018/03/bg-portfolio.jpg);
+	background-attachment: fixed;}
+.blog-single .row{background: white; padding-top: 30px}
+.is-divider{max-width:100%; height: 1px}
+.blog-single .large-9{padding-right: 15px}
+.blog-single .post-sidebar{padding-left: 15px}
+.button.icon.circle{border-radius: 0 !important;
+	border: 1px solid #dadada;}
+.blog-single .article-inner .entry-image, .badge.post-date{display: none}
+.blog-single .article-inner .entry-content{padding-top: 0}
+.portfolio-archive .page-title{    background-image: url(../../uploads/2018/03/home-4.jpg);
+	background-attachment: fixed;
+	height: 300px;}
+.portfolio-archive .page-wrapper{padding-top:0}
+.portfolio-archive .page-wrapper .mb-half{max-width: 100%;     background: #ececec;
+	margin-bottom: 20px; font-size: 18px}
+.portfolio-archive .page-wrapper .mb-half ul li a{padding-top: 20px; padding-bottom: 20px; padding-left: 10px; padding-right:10px}
+.portfolio-archive .row.row-small{max-width: 98%; margin: 0 auto}
+.portfolio-archive .portfolio-box .box-text .box-text-inner h6{color: black; letter-spacing: 0; font-size: 18px; font-weight: bold}
+.portfolio-archive .portfolio-box .box-text .box-text-inner{text-align: left}
+.portfolio-archive .show-on-hover{background: rgba(0,0,0,0.6); height: 300px}
+.nav-dropdown-default{padding: 0;
+	font-size: 12px;
+	text-transform: uppercase;
+	margin-top: 6px; margin-left: -20px; box-shadow: 0px 0px 0px rgba(0,0,0,0.15);
+	border: 0px solid #ddd;  transition: margin-left 0.7s ease-in-out;}
+.menu-item-has-children:hover .nav-dropdown-default{margin-left: 10px}
+.tiet-kiem{width: 100%;
+	margin: 0 auto;
+	position: relative; text-align: center}
+.tiet-kiem .badge-container{text-align: center; 
+	margin: 0 auto;
+	left: auto !important;
+
+	position: relative !important;
+	display: inline-block;}
+.tiet-kiem .badge{display: inline;
+	text-align: center;}
+.tiet-kiem .badge .badge-inner{padding:10px; background: #f2f2f2}
+.tiet-kiem .onsale{font-size: 14px; color: gray; font-weight: normal}
+.product-small .box-text{padding-left: 5px; padding-right: 5px; padding-bottom: 10px}
+.product-small .box-text .product-title a{font-size: 15px; font-weight:600; color: black; padding-bottom: 5px}
+.product-small .box-text .price-wrapper del{display: inline-block; font-size: 13px; margin-bottom: 10px}
+.product-small .box-text .price-wrapper{font-size: 17px}
+.product-small .col-inner{padding-bottom: 10px}
+.product-small .col-inner:hover{border: 1px solid #d6d6d6;
+}
+.product-small .col-inner:hover .tiet-kiem .badge .badge-inner{   
+	background: black;}
+.shop-page-title .page-title-inner{    background: #f2f2f2;
+	padding-bottom: 10px;
+}
+.breadcrumbs a{color: black}
+.product-small .col-inner:hover .tiet-kiem .onsale{color: white}
+.product-small .col-inner{border:1px solid #f2f2f2}
+.sp-breadcrumb .col{padding-bottom:0}
+.chi-tiet-sp{background-position: fixed}
+.chi-tiet-sp .row1{max-width: 1200px; margin: 0 auto;background: white}
+.chi-tiet-sp .row1 .col{padding-bottom:0}
+hr{margin:0}
+.chi-tiet-sp .row1 .cot3 .col-inner .button{line-height: 45px; margin-bottom:0}
+.tin-khuyen-mai{background: #f2f2f2;
+	margin-bottom: 10px;
+	padding: 10px;
+	border: 1px dashed #d26e4b; font-size: 14px}
+.custom-product-page .product-short-description p{margin-bottom:15px}
+.custom-product-page .price-wrapper .product-page-price{margin-bottom:20px}
+.custom-product-page .price-wrapper .product-page-price del{display: inline-block; margin-bottom: 10px; margin-top: 10px; font-size:16px}
+.custom-product-page .thong-tin-co-ban{height: 410px; overflow: scroll; width: 100%}
+.custom-product-page .product_meta>span{font-size: 14px}
+.custom-product-page .product_meta .posted_in a:hover, .custom-product-page .product_meta .tagged_as a:hover{text-decoration: underline}
+.custom-product-page .product_meta .tagged_as  a{background: #f2f2f2;
+	padding: 3px 7px;
+	margin: 4px;line-height: 34px;}
+.custom-product-page .badge-inner.on-sale{font-weight: normal; font-size: 14px;}
+.custom-product-page .badge-container{margin:10px}
+.custom-product-page .badge{height: 35px}
+.custom-product-page .badge .onsale{padding: 0 5px}
+.custom-product-page .anh-san-pham{height: 410px; overflow: hidden}
+.portfolio-section .row .col .col-inner h3 span{padding-left:10px}
+.tin-tuc .row .cot10{padding:0}
+.custom-product-page .row2{max-width:1200px}
+.custom-product-page .sp-lien-quan .col{padding-bottom:0}
+ul.product_list_widget li{margin-left:0}
+.custom-product-page{background: #fbfbfb}
+.tabbed-content .nav{border-bottom: 1px solid gray;}
+.custom-product-page .widget_product_tag_cloud{margin-left:0}
+.custom-product-page .widgettitle{font-size: 20px;
+	color: black;}
+.flickity-slider .portfolio-box .box-text .box-text-inner h6{color: black;text-align: left;
+	font-weight: bold;
+	letter-spacing: 0;}
+
+
+@media only screen and (max-width: 48em) {
+	/*************** ADD MOBILE ONLY CSS HERE  ***************/
+
+}
+@media screen and (max-width: 849px){
+	.portfolio-section .row .col{padding-left:5px; padding-right: 5px}
+	.portfolio-section .row .col .col-inner h3 span{padding-left:5px}
+	.dich-vu-san-pham .row .col{padding-left:5px; padding-right: 5px}
+	.dich-vu-san-pham .row .cot2{max-width: 100%}
+	.dich-vu-san-pham .row .cot2 .large-12{padding-left:0; padding-right: 0}
+	.tin-tuc .row .cot10{padding-left:0; padding-right: 0; max-width:100%}
+	.tin-tuc .row .row1-cot1 .cot1{padding-left:10px; padding-right: 10px}
+	.sidebar-wrapper .widget_product_tag_cloud{margin-left:0}
+	.portfolio-summary, .portfolio-top .page-wrapper{width:100%; padding: 0px 5px}
+	.portfolio-meta{display:none}
+	.custom-product-page .anh-san-pham{height: auto}
+	.custom-product-page .thong-tin-co-ban{height: auto}
+	.sp-lien-quan .row .col .row{margin-left:0}
+	.custom-product-page .sp-lien-quan .col, .category-page-row .large-9{padding-left:5px; padding-right:5px}
+
+}

@@ -1,0 +1,1500 @@
+Uri: https://fonts.googleapis.com/css?family=Muli:regular%2C700%2Cregular|Montserrat:regular%2C600|Dancing+Script:regular%2Cdefault&display=swap&ver=3.9
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/dancingscript/v24/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\s\dancingscript\v24\If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v28/7Aulp_0qiz-aVz7u3PJLcUMYOFkpl0k30e0.ttf
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\s\muli\v28\7Aulp_0qiz-aVz7u3PJLcUMYOFkpl0k30e0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v28/7Aulp_0qiz-aVz7u3PJLcUMYOFnOkEk30e0.ttf
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\s\muli\v28\7Aulp_0qiz-aVz7u3PJLcUMYOFnOkEk30e0.ttf
+Content Type: font/ttf
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fnoithat3.webtudong8giay.com%252Fcach-lam-tang-chieu-sau-cho-nha-hang-nho%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\login-2.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fnoithat3.webtudong8giay.com%252Fchao-moi-nguoi%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\login-6.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fnoithat3.webtudong8giay.com%252Fmang-dau-an-xu-phu-tang-vao-thiet-ke-nha-hang%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\login-3.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fnoithat3.webtudong8giay.com%252Fsuc-anh-huong-cua-mau-sac-doi-voi-thuc-khach%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\login-5.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fnoithat3.webtudong8giay.com%252Fthiet-ke-nha-hang-han-quoc-noi-cam-xuc-thang-hoa%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\login-4.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fnoithat3.webtudong8giay.com%252Fthiet-ke-noi-that-tong-the-gian-bep-dep-khong-can-chinh%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fnoithat3.webtudong8giay.com%252Ftieu-chi-thiet-ke-noi-that-nha-hang-sang-trong-tiet-kiem%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\login-1.php
+Content Type: application/xhtml+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\font-awesome\4.7.0\css\font-awesome.min-1.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://noithat3.webtudong8giay.com/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/author/admin/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\author\admin\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/author/admin/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\author\admin\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/cach-lam-tang-chieu-sau-cho-nha-hang-nho/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\cach-lam-tang-chieu-sau-cho-nha-hang-nho\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/cach-lam-tang-chieu-sau-cho-nha-hang-nho/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\cach-lam-tang-chieu-sau-cho-nha-hang-nho\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/chao-moi-nguoi/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\chao-moi-nguoi\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/chao-moi-nguoi/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\chao-moi-nguoi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/chuyen-muc/tin-tuc/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\chuyen-muc\tin-tuc\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/chuyen-muc/tin-tuc/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\chuyen-muc\tin-tuc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/chuyen-muc/tu-van/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\chuyen-muc\tu-van\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/chuyen-muc/tu-van/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\chuyen-muc\tu-van\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/chuyen-muc/tu-van/giai-phap-cong-nghe-xu-li-nuoc/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\chuyen-muc\tu-van\giai-phap-cong-nghe-xu-li-nuoc\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/chuyen-muc/tu-van/giai-phap-cong-nghe-xu-li-nuoc/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\chuyen-muc\tu-van\giai-phap-cong-nghe-xu-li-nuoc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/chuyen-muc/tu-van/tu-van-may-loc-nuoc/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\chuyen-muc\tu-van\tu-van-may-loc-nuoc\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/chuyen-muc/tu-van/tu-van-may-loc-nuoc/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\chuyen-muc\tu-van\tu-van-may-loc-nuoc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/chuyen-muc/tu-van/tu-van-thiet-bi-loc-nuoc/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\chuyen-muc\tu-van\tu-van-thiet-bi-loc-nuoc\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/chuyen-muc/tu-van/tu-van-thiet-bi-loc-nuoc/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\chuyen-muc\tu-van\tu-van-thiet-bi-loc-nuoc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/comments/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/danh-muc/ban-ghe/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\danh-muc\ban-ghe\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/danh-muc/ban-ghe/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\danh-muc\ban-ghe\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/danh-muc/cay-trang-tri/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\danh-muc\cay-trang-tri\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/danh-muc/cay-trang-tri/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\danh-muc\cay-trang-tri\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/danh-muc/den-trang-tri/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\danh-muc\den-trang-tri\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/danh-muc/den-trang-tri/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\danh-muc\den-trang-tri\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/danh-muc/ke-tivi/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\danh-muc\ke-tivi\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/danh-muc/ke-tivi/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\danh-muc\ke-tivi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/danh-muc/sofa/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\danh-muc\sofa\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/danh-muc/sofa/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\danh-muc\sofa\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/du-an/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\du-an\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/du-an/beauty/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\du-an\beauty\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/du-an/beauty/giuseart-homestay/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\du-an\beauty\giuseart-homestay\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/du-an/beauty/giuseart-homestay/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\du-an\beauty\giuseart-homestay\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/du-an/beauty/salon-toc-hong-ngoc/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\du-an\beauty\salon-toc-hong-ngoc\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/du-an/beauty/salon-toc-hong-ngoc/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\du-an\beauty\salon-toc-hong-ngoc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/du-an/beauty/the-coffee-and-white-tea/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\du-an\beauty\the-coffee-and-white-tea\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/du-an/beauty/the-coffee-and-white-tea/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\du-an\beauty\the-coffee-and-white-tea\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/du-an/beauty/tiem-lam-toc-sony/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\du-an\beauty\tiem-lam-toc-sony\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/du-an/beauty/tiem-lam-toc-sony/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\du-an\beauty\tiem-lam-toc-sony\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/du-an/food-beverage/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\du-an\food-beverage\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/du-an/food-beverage/nha-an-toan-k3/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\du-an\food-beverage\nha-an-toan-k3\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/du-an/food-beverage/nha-an-toan-k3/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\du-an\food-beverage\nha-an-toan-k3\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/du-an/food-beverage/nha-biet-thu-le-thien/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\du-an\food-beverage\nha-biet-thu-le-thien\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/du-an/food-beverage/nha-biet-thu-le-thien/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\du-an\food-beverage\nha-biet-thu-le-thien\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/du-an/food-beverage/nha-hang-nhat-ykhaotio/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\du-an\food-beverage\nha-hang-nhat-ykhaotio\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/du-an/food-beverage/nha-hang-nhat-ykhaotio/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\du-an\food-beverage\nha-hang-nhat-ykhaotio\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/du-an/food-beverage/quan-ca-phe-pho-xua/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\du-an\food-beverage\quan-ca-phe-pho-xua\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/du-an/food-beverage/quan-ca-phe-pho-xua/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\du-an\food-beverage\quan-ca-phe-pho-xua\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/du-an/food-beverage/vintage-coffee-giuseart/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\du-an\food-beverage\vintage-coffee-giuseart\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/du-an/food-beverage/vintage-coffee-giuseart/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\du-an\food-beverage\vintage-coffee-giuseart\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/du-an/office/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\du-an\office\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/du-an/office/biet-thu-pho-huong-khe/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\du-an\office\biet-thu-pho-huong-khe\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/du-an/office/biet-thu-pho-huong-khe/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\du-an\office\biet-thu-pho-huong-khe\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/du-an/office/biet-thu-pho-trung-anh/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\du-an\office\biet-thu-pho-trung-anh\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/du-an/office/biet-thu-pho-trung-anh/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\du-an\office\biet-thu-pho-trung-anh\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/du-an/office/biet-thu-pho-xuan-thien/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\du-an\office\biet-thu-pho-xuan-thien\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/du-an/office/biet-thu-pho-xuan-thien/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\du-an\office\biet-thu-pho-xuan-thien\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/gio-hang/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\gio-hang\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/lien-he/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\lien-he\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/mang-dau-an-xu-phu-tang-vao-thiet-ke-nha-hang/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\mang-dau-an-xu-phu-tang-vao-thiet-ke-nha-hang\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/mang-dau-an-xu-phu-tang-vao-thiet-ke-nha-hang/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\mang-dau-an-xu-phu-tang-vao-thiet-ke-nha-hang\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/quy-trinh/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\quy-trinh\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/san-pham/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\san-pham\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/san-pham/ban-ghe-phong-khach-tan-co-dien-nhap-khau/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\san-pham\ban-ghe-phong-khach-tan-co-dien-nhap-khau\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/san-pham/ban-ghe-phong-khach-tan-co-dien-nhap-khau/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\san-pham\ban-ghe-phong-khach-tan-co-dien-nhap-khau\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/san-pham/cay-canh-trang-tri-phong-khach-nuoi-nuoc/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\san-pham\cay-canh-trang-tri-phong-khach-nuoi-nuoc\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/san-pham/cay-canh-trang-tri-phong-khach-nuoi-nuoc/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\san-pham\cay-canh-trang-tri-phong-khach-nuoi-nuoc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/san-pham/den-trang-tri-phong-ngu-cao-cap-nhap-khau/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\san-pham\den-trang-tri-phong-ngu-cao-cap-nhap-khau\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/san-pham/den-trang-tri-phong-ngu-cao-cap-nhap-khau/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\san-pham\den-trang-tri-phong-ngu-cao-cap-nhap-khau\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/san-pham/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\san-pham\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/san-pham/giuong-ngu-phong-cach-tan-co-dien-gs76/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\san-pham\giuong-ngu-phong-cach-tan-co-dien-gs76\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/san-pham/giuong-ngu-phong-cach-tan-co-dien-gs76/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\san-pham\giuong-ngu-phong-cach-tan-co-dien-gs76\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/san-pham/ke-tivi-cao-cap-nhap-khau-usa-gs344/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\san-pham\ke-tivi-cao-cap-nhap-khau-usa-gs344\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/san-pham/ke-tivi-cao-cap-nhap-khau-usa-gs344/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\san-pham\ke-tivi-cao-cap-nhap-khau-usa-gs344\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/san-pham/ke-tivi-nhap-khau-duc-cao-cap-cho-phong-khach/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\san-pham\ke-tivi-nhap-khau-duc-cao-cap-cho-phong-khach\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/san-pham/ke-tivi-nhap-khau-duc-cao-cap-cho-phong-khach/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\san-pham\ke-tivi-nhap-khau-duc-cao-cap-cho-phong-khach\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/san-pham/may-loc-nuoc-kg104kv/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\san-pham\may-loc-nuoc-kg104kv\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/san-pham/may-loc-nuoc-kg104kv/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\san-pham\may-loc-nuoc-kg104kv\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/san-pham/sofa-da-bo-nhap-khau-nguyen-chiec-gs454/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\san-pham\sofa-da-bo-nhap-khau-nguyen-chiec-gs454\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/san-pham/sofa-da-bo-nhap-khau-nguyen-chiec-gs454/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\san-pham\sofa-da-bo-nhap-khau-nguyen-chiec-gs454\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/suc-anh-huong-cua-mau-sac-doi-voi-thuc-khach/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\suc-anh-huong-cua-mau-sac-doi-voi-thuc-khach\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/suc-anh-huong-cua-mau-sac-doi-voi-thuc-khach/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\suc-anh-huong-cua-mau-sac-doi-voi-thuc-khach\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/tai-khoan/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\tai-khoan\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/tai-khoan/lost-password/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\tai-khoan\lost-password\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/thiet-ke-nha-hang-han-quoc-noi-cam-xuc-thang-hoa/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\thiet-ke-nha-hang-han-quoc-noi-cam-xuc-thang-hoa\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/thiet-ke-nha-hang-han-quoc-noi-cam-xuc-thang-hoa/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\thiet-ke-nha-hang-han-quoc-noi-cam-xuc-thang-hoa\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/thiet-ke-noi-that-tong-the-gian-bep-dep-khong-can-chinh/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\thiet-ke-noi-that-tong-the-gian-bep-dep-khong-can-chinh\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/thiet-ke-noi-that-tong-the-gian-bep-dep-khong-can-chinh/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\thiet-ke-noi-that-tong-the-gian-bep-dep-khong-can-chinh\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/tieu-chi-thiet-ke-noi-that-nha-hang-sang-trong-tiet-kiem/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\tieu-chi-thiet-ke-noi-that-nha-hang-sang-trong-tiet-kiem\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/tieu-chi-thiet-ke-noi-that-nha-hang-sang-trong-tiet-kiem/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\tieu-chi-thiet-ke-noi-that-nha-hang-sang-trong-tiet-kiem\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/trang-chu/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\trang-chu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/tu-khoa/ban-chan-sat/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\tu-khoa\ban-chan-sat\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/tu-khoa/ban-chan-sat/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\tu-khoa\ban-chan-sat\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/tu-khoa/ban-ghe-bar/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\tu-khoa\ban-ghe-bar\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/tu-khoa/ban-ghe-bar/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\tu-khoa\ban-ghe-bar\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/tu-khoa/ban-ghe-cafe/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\tu-khoa\ban-ghe-cafe\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/tu-khoa/ban-ghe-cafe/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\tu-khoa\ban-ghe-cafe\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/tu-khoa/ban-ghe-gia-dinh/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\tu-khoa\ban-ghe-gia-dinh\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/tu-khoa/ban-ghe-gia-dinh/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\tu-khoa\ban-ghe-gia-dinh\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/tu-khoa/ban-ghe-van-phong/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\tu-khoa\ban-ghe-van-phong\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/tu-khoa/ban-ghe-van-phong/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\tu-khoa\ban-ghe-van-phong\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/tu-khoa/chat-lieu-da/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\tu-khoa\chat-lieu-da\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/tu-khoa/chat-lieu-da/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\tu-khoa\chat-lieu-da\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/tu-khoa/go-cong-nghiep/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\tu-khoa\go-cong-nghiep\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/tu-khoa/go-cong-nghiep/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\tu-khoa\go-cong-nghiep\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/tu-khoa/go-pallet/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\tu-khoa\go-pallet\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/tu-khoa/go-pallet/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\tu-khoa\go-pallet\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/tu-khoa/go-tu-nhien/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\tu-khoa\go-tu-nhien\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/tu-khoa/go-tu-nhien/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\tu-khoa\go-tu-nhien\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/tu-khoa/ke-tivi-dien-tich-nho/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\tu-khoa\ke-tivi-dien-tich-nho\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/tu-khoa/ke-tivi-dien-tich-nho/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\tu-khoa\ke-tivi-dien-tich-nho\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/tu-khoa/kinh-go-tu-nhien/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\tu-khoa\kinh-go-tu-nhien\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/tu-khoa/kinh-go-tu-nhien/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\tu-khoa\kinh-go-tu-nhien\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/tu-khoa/kinh/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\tu-khoa\kinh\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/tu-khoa/kinh/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\tu-khoa\kinh\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/tu-khoa/menaline/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\tu-khoa\menaline\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/tu-khoa/menaline/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\tu-khoa\menaline\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/tu-khoa/noi-that-sang-tao/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\tu-khoa\noi-that-sang-tao\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/tu-khoa/noi-that-sang-tao/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\tu-khoa\noi-that-sang-tao\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/tu-khoa/noi-that-thong-minh/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\tu-khoa\noi-that-thong-minh\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/tu-khoa/noi-that-thong-minh/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\tu-khoa\noi-that-thong-minh\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/tu-khoa/noi-that-tre-em/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\tu-khoa\noi-that-tre-em\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/tu-khoa/noi-that-tre-em/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\tu-khoa\noi-that-tre-em\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/tu-khoa/van-go/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\tu-khoa\van-go\index.htm
+Content Type: text/html
+
+Uri: https://noithat3.webtudong8giay.com/tu-khoa/van-go/feed/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\tu-khoa\van-go\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat3.webtudong8giay.com/wp-admin/js/password-strength-meter.min.js?ver=6.1
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-admin\js\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://noithat3.webtudong8giay.com/wp-admin/js/password-strength-meter.min.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-admin\js\password-strength-meter.min-1.js
+Content Type: application/javascript
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/plugins/font-awesome-4-menus/css/font-awesome.min.css?ver=4.7.0
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\plugins\font-awesome-4-menus\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/plugins/font-awesome-4-menus/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\plugins\font-awesome-4-menus\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/plugins/font-awesome-4-menus/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\plugins\font-awesome-4-menus\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/plugins/font-awesome-4-menus/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\plugins\font-awesome-4-menus\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/plugins/font-awesome-4-menus/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\plugins\font-awesome-4-menus\fonts\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/plugins/font-awesome-4-menus/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\plugins\font-awesome-4-menus\fonts\fontawesome-webfont.woff2
+Content Type: 
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/plugins/font-awesome-4-menus/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\plugins\font-awesome-4-menus\fonts\fontawesome-webfont.woff
+Content Type: application/x-font-woff
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.min.css?ver=7.1.0
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.min.css
+Content Type: text/css
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.png
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.png
+Content Type: image/png
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.svg
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.svg
+Content Type: image/svg+xml
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/preloader.gif
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\preloader.gif
+Content Type: image/gif
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/photoswipe.min.css?ver=7.1.0
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\photoswipe.min.css
+Content Type: text/css
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/select2.css?ver=7.1.0
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\select2.css
+Content Type: text/css
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: application/javascript
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/address-i18n.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\address-i18n.min.js
+Content Type: application/javascript
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\cart-fragments.min.js
+Content Type: application/javascript
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/cart.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\cart.min.js
+Content Type: application/javascript
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/country-select.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\country-select.min.js
+Content Type: application/javascript
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/lost-password.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\lost-password.min.js
+Content Type: application/javascript
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/password-strength-meter.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\single-product.min.js
+Content Type: application/javascript
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/javascript
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.7.1.0
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/javascript
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.7.1.0
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe-ui-default.min.js?ver=4.1.1-wc.7.1.0
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\photoswipe\photoswipe-ui-default.min.js
+Content Type: application/javascript
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe.min.js?ver=4.1.1-wc.7.1.0
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\photoswipe\photoswipe.min.js
+Content Type: application/javascript
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js?ver=1.0.9-wc.7.1.0
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\selectWoo\selectWoo.full.min.js
+Content Type: application/javascript
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=8.7.5
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-style.css
+Content Type: text/css
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=8.7.5
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-vendors-style.css
+Content Type: text/css
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/themes/flatsome-child/style.css?ver=3.11.3
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\themes\flatsome-child\style.css
+Content Type: text/css
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/themes/flatsome/assets/css/fl-icons.css?ver=3.12
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\themes\flatsome\assets\css\fl-icons.css
+Content Type: text/css
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome-shop.css?ver=3.13.1
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome-shop.css
+Content Type: text/css
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.13.1
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome.css
+Content Type: text/css
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff
+Content Type: application/x-font-woff
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff2
+Content Type: 
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/themes/flatsome/assets/img/underline.png
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.13.1
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/javascript
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/themes/flatsome/assets/js/woocommerce.js?ver=3.13.1
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\themes\flatsome\assets\js\woocommerce.js
+Content Type: application/javascript
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/themes/flatsome/assets/libs/isotope.pkgd.min.js?ver=3.13.1
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\themes\flatsome\assets\libs\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/themes/flatsome/assets/libs/packery.pkgd.min.js?ver=3.13.1
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\themes\flatsome\assets\libs\packery.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/themes/flatsome/inc/extensions/flatsome-lazy-load/flatsome-lazy-load.js?ver=3.13.1
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\themes\flatsome\inc\extensions\flatsome-lazy-load\flatsome-lazy-load.js
+Content Type: application/javascript
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/uploads/2018/03/1-Thiet-ke-noi-that-nha-dep-Viet-can-chuyen-nghiep.jpg
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\uploads\2018\03\1-Thiet-ke-noi-that-nha-dep-Viet-can-chuyen-nghiep.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/uploads/2018/03/bg-portfolio.jpg
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\uploads\2018\03\bg-portfolio.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/uploads/2018/03/cây-xanh-trong-nhà-và-phong-thủy.jpg
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\uploads\2018\03\cây-xanh-trong-nhà-và-phong-thủy.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/uploads/2018/03/CAP81-FB-3S-LGY_2_a3bb54c2-26e4-4b20-9d39-ca19463ec7f5.jpg
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\uploads\2018\03\CAP81-FB-3S-LGY_2_a3bb54c2-26e4-4b20-9d39-ca19463ec7f5.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/uploads/2018/03/cham-soc-bao-duong-noi-that-da-11.jpg
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\uploads\2018\03\cham-soc-bao-duong-noi-that-da-11.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/uploads/2018/03/dsdsads-1024x630.jpg
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\uploads\2018\03\dsdsads-1024x630.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/uploads/2018/03/dsdsads-300x185.jpg
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\uploads\2018\03\dsdsads-300x185.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/uploads/2018/03/dsdsads-510x314.jpg
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\uploads\2018\03\dsdsads-510x314.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/uploads/2018/03/dsdsads-768x473.jpg
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\uploads\2018\03\dsdsads-768x473.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/uploads/2018/03/dsdsads.jpg
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\uploads\2018\03\dsdsads.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/uploads/2018/03/home-4.jpg
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\uploads\2018\03\home-4.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/uploads/2018/03/largo-workflow-step05.jpg
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\uploads\2018\03\largo-workflow-step05.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/uploads/2018/03/largo-workflow-step06.jpg
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\uploads\2018\03\largo-workflow-step06.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/uploads/2018/03/largo-workflow-step07.jpg
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\uploads\2018\03\largo-workflow-step07.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/uploads/2018/03/largo-workflow-step08.jpg
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\uploads\2018\03\largo-workflow-step08.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/uploads/2018/03/largo_hakkaisanbar_20160804_after-12-300x185.jpg
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\uploads\2018\03\largo_hakkaisanbar_20160804_after-12-300x185.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/uploads/2018/03/largo_hakkaisanbar_20160804_after-12-510x314.jpg
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\uploads\2018\03\largo_hakkaisanbar_20160804_after-12-510x314.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/uploads/2018/03/largo_hakkaisanbar_20160804_after-12-768x472.jpg
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\uploads\2018\03\largo_hakkaisanbar_20160804_after-12-768x472.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/uploads/2018/03/largo_hakkaisanbar_20160804_after-12.jpg
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\uploads\2018\03\largo_hakkaisanbar_20160804_after-12.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/uploads/2018/03/largo_motherco_ebisu_20161018_after-8-1024x630-300x185.jpg
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\uploads\2018\03\largo_motherco_ebisu_20161018_after-8-1024x630-300x185.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/uploads/2018/03/largo_motherco_ebisu_20161018_after-8-1024x630-510x314.jpg
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\uploads\2018\03\largo_motherco_ebisu_20161018_after-8-1024x630-510x314.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/uploads/2018/03/largo_motherco_ebisu_20161018_after-8-1024x630-768x472.jpg
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\uploads\2018\03\largo_motherco_ebisu_20161018_after-8-1024x630-768x472.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/uploads/2018/03/largo_motherco_ebisu_20161018_after-8-1024x630.jpg
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\uploads\2018\03\largo_motherco_ebisu_20161018_after-8-1024x630.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/uploads/2018/03/largo_restrant_aobadai_8828★-300x185.jpg
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\uploads\2018\03\largo_restrant_aobadai_8828★-300x185.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/uploads/2018/03/largo_restrant_aobadai_8828★-510x314.jpg
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\uploads\2018\03\largo_restrant_aobadai_8828★-510x314.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/uploads/2018/03/largo_restrant_aobadai_8828★-768x472.jpg
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\uploads\2018\03\largo_restrant_aobadai_8828★-768x472.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/uploads/2018/03/largo_restrant_aobadai_8828★.jpg
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\uploads\2018\03\largo_restrant_aobadai_8828★.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/uploads/2018/03/largo_yao_after_2-7-300x185.jpg
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\uploads\2018\03\largo_yao_after_2-7-300x185.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/uploads/2018/03/largo_yao_after_2-7-510x314.jpg
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\uploads\2018\03\largo_yao_after_2-7-510x314.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/uploads/2018/03/largo_yao_after_2-7-768x472.jpg
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\uploads\2018\03\largo_yao_after_2-7-768x472.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/uploads/2018/03/largo_yao_after_2-7.jpg
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\uploads\2018\03\largo_yao_after_2-7.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/uploads/2018/03/lua-chon-mau-xanh-la-cay-va-nau-go-cho-nha-hang.jpg
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\uploads\2018\03\lua-chon-mau-xanh-la-cay-va-nau-go-cho-nha-hang.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/uploads/2018/03/mau-den-trang-tri-dep-1.jpg
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\uploads\2018\03\mau-den-trang-tri-dep-1.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/uploads/2018/03/slide-aobadai-v3-300x180.png
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\uploads\2018\03\slide-aobadai-v3-300x180.png
+Content Type: image/png
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/uploads/2018/03/slide-aobadai-v3-510x306.png
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\uploads\2018\03\slide-aobadai-v3-510x306.png
+Content Type: image/png
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/uploads/2018/03/slide-aobadai-v3.png
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\uploads\2018\03\slide-aobadai-v3.png
+Content Type: image/png
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/uploads/2018/03/slide-shimokitazawa-1-300x180.png
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\uploads\2018\03\slide-shimokitazawa-1-300x180.png
+Content Type: image/png
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/uploads/2018/03/slide-shimokitazawa-1-510x306.png
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\uploads\2018\03\slide-shimokitazawa-1-510x306.png
+Content Type: image/png
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/uploads/2018/03/slide-shimokitazawa-1.png
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\uploads\2018\03\slide-shimokitazawa-1.png
+Content Type: image/png
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/uploads/2018/03/slide-shimokitazawa.png
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\uploads\2018\03\slide-shimokitazawa.png
+Content Type: image/png
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/uploads/2018/03/slide-umedasu-v3-1-300x180.png
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\uploads\2018\03\slide-umedasu-v3-1-300x180.png
+Content Type: image/png
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/uploads/2018/03/slide-umedasu-v3-1-510x306.png
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\uploads\2018\03\slide-umedasu-v3-1-510x306.png
+Content Type: image/png
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/uploads/2018/03/slide-umedasu-v3-1.png
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\uploads\2018\03\slide-umedasu-v3-1.png
+Content Type: image/png
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/uploads/2018/03/Thiet-ke-nha-hang-Han-Quoc-noi-cam-xuc-thang-hoa-2.jpg
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\uploads\2018\03\Thiet-ke-nha-hang-Han-Quoc-noi-cam-xuc-thang-hoa-2.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/uploads/2018/03/trang-trí-kệ-tivi-phòng-khách5.jpg
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\uploads\2018\03\trang-trí-kệ-tivi-phòng-khách5.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/uploads/2018/06/lgo-300x107.png
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\uploads\2018\06\lgo-300x107.png
+Content Type: image/png
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/uploads/2018/06/lgo-450x161.png
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\uploads\2018\06\lgo-450x161.png
+Content Type: image/png
+
+Uri: https://noithat3.webtudong8giay.com/wp-content/uploads/2018/06/lgo.png
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-content\uploads\2018\06\lgo.png
+Content Type: image/png
+
+Uri: https://noithat3.webtudong8giay.com/wp-includes/css/classic-themes.min.css?ver=1
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-includes\css\classic-themes.min.css
+Content Type: text/css
+
+Uri: https://noithat3.webtudong8giay.com/wp-includes/css/dashicons.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-includes\css\dashicons.min.css
+Content Type: text/css
+
+Uri: https://noithat3.webtudong8giay.com/wp-includes/css/dashicons.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-includes\css\dashicons.min-1.css
+Content Type: text/css
+
+Uri: https://noithat3.webtudong8giay.com/wp-includes/css/dist/block-library/style.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://noithat3.webtudong8giay.com/wp-includes/css/dist/block-library/style.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-includes\css\dist\block-library\style.min-1.css
+Content Type: text/css
+
+Uri: https://noithat3.webtudong8giay.com/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-includes\fonts\dashicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://noithat3.webtudong8giay.com/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-includes\fonts\dashicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://noithat3.webtudong8giay.com/wp-includes/js/comment-reply.min.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://noithat3.webtudong8giay.com/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://noithat3.webtudong8giay.com/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://noithat3.webtudong8giay.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://noithat3.webtudong8giay.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://noithat3.webtudong8giay.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-includes\js\hoverIntent.min.js
+Content Type: application/javascript
+
+Uri: https://noithat3.webtudong8giay.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://noithat3.webtudong8giay.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://noithat3.webtudong8giay.com/wp-includes/js/zxcvbn-async.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-includes\js\zxcvbn-async.min.js
+Content Type: application/javascript
+
+Uri: https://noithat3.webtudong8giay.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2F
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fcach-lam-tang-chieu-sau-cho-nha-hang-nho%2F
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-38
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fcach-lam-tang-chieu-sau-cho-nha-hang-nho%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-39
+Content Type: text/xml
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fchao-moi-nguoi%2F
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-64
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fchao-moi-nguoi%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-65
+Content Type: text/xml
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fdu-an%2F
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fdu-an%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fdu-an%2Fbeauty%2Fgiuseart-homestay%2F
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fdu-an%2Fbeauty%2Fgiuseart-homestay%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fdu-an%2Fbeauty%2Fsalon-toc-hong-ngoc%2F
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fdu-an%2Fbeauty%2Fsalon-toc-hong-ngoc%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fdu-an%2Fbeauty%2Fthe-coffee-and-white-tea%2F
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fdu-an%2Fbeauty%2Fthe-coffee-and-white-tea%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fdu-an%2Fbeauty%2Ftiem-lam-toc-sony%2F
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fdu-an%2Fbeauty%2Ftiem-lam-toc-sony%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fdu-an%2Ffood-beverage%2Fnha-an-toan-k3%2F
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fdu-an%2Ffood-beverage%2Fnha-an-toan-k3%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fdu-an%2Ffood-beverage%2Fnha-biet-thu-le-thien%2F
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fdu-an%2Ffood-beverage%2Fnha-biet-thu-le-thien%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fdu-an%2Ffood-beverage%2Fnha-hang-nhat-ykhaotio%2F
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fdu-an%2Ffood-beverage%2Fnha-hang-nhat-ykhaotio%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fdu-an%2Ffood-beverage%2Fquan-ca-phe-pho-xua%2F
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fdu-an%2Ffood-beverage%2Fquan-ca-phe-pho-xua%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fdu-an%2Ffood-beverage%2Fvintage-coffee-giuseart%2F
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fdu-an%2Ffood-beverage%2Fvintage-coffee-giuseart%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fdu-an%2Foffice%2Fbiet-thu-pho-huong-khe%2F
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fdu-an%2Foffice%2Fbiet-thu-pho-huong-khe%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fdu-an%2Foffice%2Fbiet-thu-pho-trung-anh%2F
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fdu-an%2Foffice%2Fbiet-thu-pho-trung-anh%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fdu-an%2Foffice%2Fbiet-thu-pho-xuan-thien%2F
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fdu-an%2Foffice%2Fbiet-thu-pho-xuan-thien%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fgio-hang%2F
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fgio-hang%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Flien-he%2F
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Flien-he%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fmang-dau-an-xu-phu-tang-vao-thiet-ke-nha-hang%2F
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-40
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fmang-dau-an-xu-phu-tang-vao-thiet-ke-nha-hang%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-41
+Content Type: text/xml
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fquy-trinh%2F
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fquy-trinh%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fsan-pham%2Fban-ghe-phong-khach-tan-co-dien-nhap-khau%2F
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-52
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fsan-pham%2Fban-ghe-phong-khach-tan-co-dien-nhap-khau%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-53
+Content Type: text/xml
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fsan-pham%2Fcay-canh-trang-tri-phong-khach-nuoi-nuoc%2F
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-48
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fsan-pham%2Fcay-canh-trang-tri-phong-khach-nuoi-nuoc%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-49
+Content Type: text/xml
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fsan-pham%2Fden-trang-tri-phong-ngu-cao-cap-nhap-khau%2F
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-46
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fsan-pham%2Fden-trang-tri-phong-ngu-cao-cap-nhap-khau%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-47
+Content Type: text/xml
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fsan-pham%2Fgiuong-ngu-phong-cach-tan-co-dien-gs76%2F
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-54
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fsan-pham%2Fgiuong-ngu-phong-cach-tan-co-dien-gs76%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-55
+Content Type: text/xml
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fsan-pham%2Fke-tivi-cao-cap-nhap-khau-usa-gs344%2F
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-44
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fsan-pham%2Fke-tivi-cao-cap-nhap-khau-usa-gs344%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-45
+Content Type: text/xml
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fsan-pham%2Fke-tivi-nhap-khau-duc-cao-cap-cho-phong-khach%2F
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-42
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fsan-pham%2Fke-tivi-nhap-khau-duc-cao-cap-cho-phong-khach%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-43
+Content Type: text/xml
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fsan-pham%2Fmay-loc-nuoc-kg104kv%2F
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-56
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fsan-pham%2Fmay-loc-nuoc-kg104kv%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-57
+Content Type: text/xml
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fsan-pham%2Fsofa-da-bo-nhap-khau-nguyen-chiec-gs454%2F
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-50
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fsan-pham%2Fsofa-da-bo-nhap-khau-nguyen-chiec-gs454%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-51
+Content Type: text/xml
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fsuc-anh-huong-cua-mau-sac-doi-voi-thuc-khach%2F
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-62
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fsuc-anh-huong-cua-mau-sac-doi-voi-thuc-khach%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-63
+Content Type: text/xml
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Ftai-khoan%2F
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-58
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Ftai-khoan%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-59
+Content Type: text/xml
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fthiet-ke-nha-hang-han-quoc-noi-cam-xuc-thang-hoa%2F
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-60
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fthiet-ke-nha-hang-han-quoc-noi-cam-xuc-thang-hoa%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-61
+Content Type: text/xml
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fthiet-ke-noi-that-tong-the-gian-bep-dep-khong-can-chinh%2F
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-34
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Fthiet-ke-noi-that-tong-the-gian-bep-dep-khong-can-chinh%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-35
+Content Type: text/xml
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Ftieu-chi-thiet-ke-noi-that-nha-hang-sang-trong-tiet-kiem%2F
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-36
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat3.webtudong8giay.com%2Ftieu-chi-thiet-ke-noi-that-nha-hang-sang-trong-tiet-kiem%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\oembed\1.0\embed-37
+Content Type: text/xml
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/wp/v2/categories/1
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\wp\v2\categories\1
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/wp/v2/categories/20
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\wp\v2\categories\20
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/wp/v2/categories/21
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\wp\v2\categories\21
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/wp/v2/categories/22
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\wp\v2\categories\22
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/wp/v2/categories/23
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\wp\v2\categories\23
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/wp/v2/pages/10
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\wp\v2\pages\10
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/wp/v2/pages/13
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\wp\v2\pages\13
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/wp/v2/pages/15
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\wp\v2\pages\15
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/wp/v2/pages/2
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\wp\v2\pages\2
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/wp/v2/pages/206
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\wp\v2\pages\206
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/wp/v2/pages/6
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\wp\v2\pages\6
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/wp/v2/posts/1
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\wp\v2\posts\1
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/wp/v2/posts/634
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\wp\v2\posts\634
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/wp/v2/posts/643
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\wp\v2\posts\643
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/wp/v2/posts/654
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\wp\v2\posts\654
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/wp/v2/posts/661
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\wp\v2\posts\661
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/wp/v2/posts/676
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\wp\v2\posts\676
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/wp/v2/posts/679
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\wp\v2\posts\679
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/wp/v2/product/1222
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\wp\v2\product\1222
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/wp/v2/product/1277
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\wp\v2\product\1277
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/wp/v2/product/1278
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\wp\v2\product\1278
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/wp/v2/product/1279
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\wp\v2\product\1279
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/wp/v2/product/1280
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\wp\v2\product\1280
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/wp/v2/product/1281
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\wp\v2\product\1281
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/wp/v2/product/1286
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\wp\v2\product\1286
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/wp/v2/product/583
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\wp\v2\product\583
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/wp/v2/product_cat/15
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\wp\v2\product_cat\15
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/wp/v2/product_cat/16
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\wp\v2\product_cat\16
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/wp/v2/product_cat/17
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\wp\v2\product_cat\17
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/wp/v2/product_cat/18
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\wp\v2\product_cat\18
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/wp/v2/product_cat/32
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\wp\v2\product_cat\32
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/wp/v2/product_tag/33
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\wp\v2\product_tag\33
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/wp/v2/product_tag/36
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\wp\v2\product_tag\36
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/wp/v2/product_tag/37
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\wp\v2\product_tag\37
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/wp/v2/product_tag/38
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\wp\v2\product_tag\38
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/wp/v2/product_tag/39
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\wp\v2\product_tag\39
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/wp/v2/product_tag/40
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\wp\v2\product_tag\40
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/wp/v2/product_tag/41
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\wp\v2\product_tag\41
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/wp/v2/product_tag/42
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\wp\v2\product_tag\42
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/wp/v2/product_tag/43
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\wp\v2\product_tag\43
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/wp/v2/product_tag/44
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\wp\v2\product_tag\44
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/wp/v2/product_tag/45
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\wp\v2\product_tag\45
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/wp/v2/product_tag/46
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\wp\v2\product_tag\46
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/wp/v2/product_tag/47
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\wp\v2\product_tag\47
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/wp/v2/product_tag/48
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\wp\v2\product_tag\48
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/wp/v2/product_tag/49
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\wp\v2\product_tag\49
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/wp/v2/product_tag/50
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\wp\v2\product_tag\50
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/wp/v2/product_tag/51
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\wp\v2\product_tag\51
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/wp-json/wp/v2/users/2
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\wp-json\wp\v2\users\2
+Content Type: application/json
+
+Uri: https://noithat3.webtudong8giay.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\noithat3.webtudong8giay.com\xmlrpc.php
+Content Type: text/xml
+
